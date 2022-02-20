@@ -1,2 +1,2 @@
 # C
-MySejahtera fork
+MySejahtera fork. Still in beta.
